@@ -1,4 +1,5 @@
 # Tolubayev Orazaly
+
 * GitHub: rekips
 
 **Code examples**
@@ -14,5 +15,4 @@ function multiply(a, b){
 
 **Education**
 * 2012-2016 Bachelor of Economics
-123
 
