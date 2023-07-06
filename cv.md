@@ -1,4 +1,4 @@
-# Tolubayev Orazaly
+# **Tolubayev Orazaly**
 
 * GitHub: rekips
 
