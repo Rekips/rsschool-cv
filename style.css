@@ -68,7 +68,9 @@ header {
     background-color: var(--line-color);;
 }
 nav ul {
-    
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
     background-color: var(--line-color);;
     list-style: none;
 }
