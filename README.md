@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rekips.github.io/rsschool-cv/
